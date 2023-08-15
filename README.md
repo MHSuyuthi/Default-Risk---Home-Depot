@@ -1,7 +1,6 @@
 # Default-Risk---Home-Depot
 MUHAMMAD HANIF SUYUTHI (RMT-019)
 
-Deployment Link : https://huggingface.co/spaces/MHanifS/Default_Risk
 
 ## Default Risk
 ### Project Description
